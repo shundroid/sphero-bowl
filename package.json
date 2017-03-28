@@ -1,0 +1,22 @@
+{
+  "name": "sphero-bowl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shundroid/sphero-bowl.git"
+  },
+  "author": "shundroid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shundroid/sphero-bowl/issues"
+  },
+  "homepage": "https://github.com/shundroid/sphero-bowl#readme",
+  "devDependencies": {
+    "sphero": "^0.9.2"
+  }
+}
